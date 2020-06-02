@@ -8,6 +8,10 @@
 [submodule "datadrivencv"]
 	path = datadrivencv
 	url = https://github.com/nstrayer/datadrivencv
+[submodule "icons"]
+	path = icons
+	url = https://github.com/ropenscilabs/icon
+	registered = false
 [submodule "volcalc"]
 	path = volcalc
 	url = https://github.com/Meredith-Lab/volcalc
