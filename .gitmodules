@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/cct-datascience/universe
+	url = https://github.com/cct-datascience/cct-datascience.r-universe.dev
 	shallow = true
 	branch = HEAD
 [submodule "azmetr"]
