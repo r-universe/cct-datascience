@@ -8,3 +8,8 @@
 	url = https://github.com/cct-datascience/azmetr
 	shallow = true
 	registered = true
+[submodule "ggbiplot"]
+	path = ggbiplot
+	url = https://github.com/vqv/ggbiplot
+	shallow = true
+	registered = true

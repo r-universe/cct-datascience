@@ -1,5 +1,8 @@
 [
   {
     "package": "azmetr"
+  },
+  {
+    "package": "ggbiplot"
   }
 ]
