@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/cct-datascience/cct-datascience.r-universe.dev
-	shallow = true
 	branch = HEAD
 [submodule "azmetr"]
 	path = azmetr
 	url = https://github.com/cct-datascience/azmetr
-	shallow = true
-	registered = true
 [submodule "volcalc"]
 	path = volcalc
 	url = https://github.com/Meredith-Lab/volcalc
-	shallow = true
-	registered = true
