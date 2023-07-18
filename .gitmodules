@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "azmetr"]
 	path = azmetr
-	url = https://github.com/cct-datascience/azmetr
+	url = https://github.com/uace-azmet/azmetr
 [submodule "volcalc"]
 	path = volcalc
 	url = https://github.com/Meredith-Lab/volcalc
