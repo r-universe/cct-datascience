@@ -8,6 +8,3 @@
 [submodule "volcalc"]
 	path = volcalc
 	url = https://github.com/Meredith-Lab/volcalc
-[submodule "RDCOMClient"]
-	path = RDCOMClient
-	url = https://github.com/omegahat/RDCOMClient
