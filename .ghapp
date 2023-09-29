@@ -6,5 +6,5 @@
     "metadata": "read",
     "statuses": "write"
   },
-  "repositories": ["CALS-workshops", "data-validation-workshop", "ed2-mandifore", "quarto-revealjs-uaz", "shiny-template", "targets-demo", "targets-refactor"]
+  "repositories": ["CALS-workshops", "targets-demo", "shiny-template", "data-validation-workshop", "quarto-revealjs-uaz", "ed2-mandifore", "targets-refactor"]
 }
