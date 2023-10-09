@@ -8,3 +8,6 @@
 [submodule "volcalc"]
 	path = volcalc
 	url = https://github.com/Meredith-Lab/volcalc
+[submodule "zentracloud"]
+	path = zentracloud
+	url = https://gitlab.com/meter-group-inc/pubpackages/zentracloud
