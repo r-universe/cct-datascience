@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/cct-datascience/cct-datascience.r-universe.dev
 	branch = HEAD
-[submodule "Microsoft356R"]
-	path = Microsoft356R
-	url = https://github.com/Azure/Microsoft365R
 [submodule "azmetr"]
 	path = azmetr
 	url = https://github.com/uace-azmet/azmetr
