@@ -5,6 +5,9 @@
 [submodule "azmetr"]
 	path = azmetr
 	url = https://github.com/uace-azmet/azmetr
+[submodule "datadrivencv"]
+	path = datadrivencv
+	url = https://github.com/nstrayer/datadrivencv
 [submodule "volcalc"]
 	path = volcalc
 	url = https://github.com/Meredith-Lab/volcalc
