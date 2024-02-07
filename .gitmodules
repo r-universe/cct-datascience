@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/cct-datascience/cct-datascience.r-universe.dev
 	branch = HEAD
+[submodule "arcgisbinding"]
+	path = arcgisbinding
+	url = https://github.com/R-ArcGIS/r-bridge
 [submodule "azmetr"]
 	path = azmetr
 	url = https://github.com/uace-azmet/azmetr
