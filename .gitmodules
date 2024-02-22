@@ -10,11 +10,10 @@
 	url = https://github.com/uace-azmet/azmetr
 [submodule "datadrivencv"]
 	path = datadrivencv
-	url = https://github.com/nstrayer/datadrivencv
+	url = https://github.com/cct-datascience/datadrivencv
 [submodule "icons"]
 	path = icons
-	url = https://github.com/ropenscilabs/icon
-	registered = false
+	url = https://github.com/mitchelloharawild/icons
 [submodule "volcalc"]
 	path = volcalc
 	url = https://github.com/Meredith-Lab/volcalc
