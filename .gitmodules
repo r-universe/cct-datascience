@@ -11,9 +11,9 @@
 [submodule "datadrivencv"]
 	path = datadrivencv
 	url = https://github.com/cct-datascience/datadrivencv
-[submodule "forestTIME.builder"]
-	path = forestTIME.builder
-	url = https://github.com/Evans-Ecology-Lab/forestTIME-builder
+[submodule "forestTIME"]
+	path = forestTIME
+	url = https://github.com/Evans-Ecology-Lab/forestTIME
 [submodule "icons"]
 	path = icons
 	url = https://github.com/mitchelloharawild/icons
