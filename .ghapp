@@ -1,10 +1,9 @@
 {
   "id": 32998498,
   "created_at": "2023-01-10T15:10:48.000Z",
-  "repository_selection": "selected",
+  "repository_selection": "all",
   "permissions": {
     "metadata": "read",
     "statuses": "write"
-  },
-  "repositories": ["workshop-wednesdays", "targets-demo", "shiny-template", "data-validation-workshop", "uaz-revealjs", "ed2-mandifore", "targets-refactor"]
+  }
 }
