@@ -11,6 +11,9 @@
 [submodule "datadrivencv"]
 	path = datadrivencv
 	url = https://github.com/cct-datascience/datadrivencv
+[submodule "fluxnet"]
+	path = fluxnet
+	url = https://github.com/EcosystemEcologyLab/fluxnet-package
 [submodule "forestTIME"]
 	path = forestTIME
 	url = https://github.com/Evans-Ecology-Lab/forestTIME
